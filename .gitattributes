@@ -1,0 +1,2 @@
+# Global line ending normalization (Force LF for scripts and Docker)
+* text eol=lf

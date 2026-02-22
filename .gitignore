@@ -1,0 +1,17 @@
+# Persistence
+android_data/
+
+# Tools & Binaries
+scrcpy/
+scrcpy.zip
+scrcpy.tar.gz
+
+# System Junk
+.DS_Store
+[Dd]esktop.ini
+[Tt]humbs.db
+*:Zone.Identifier
+
+# Temporary
+*.log
+*.tmp
